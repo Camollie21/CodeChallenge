@@ -1,0 +1,6 @@
+framework module Pods_HomeAwayCodeChallengeTests {
+  umbrella header "Pods-HomeAwayCodeChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
